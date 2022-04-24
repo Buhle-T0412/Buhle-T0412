@@ -11,6 +11,7 @@
 <img src="https://cdn.iconscout.com/icon/free/png-64/sharepoint-1411852-1194341.png" alt="SharePoint" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/fluency/2x/microsoft-power-automate-2020.png" alt="Power Automate" height="40" style="vertical-align:top; margin:4px">
 <img src="https://img.icons8.com/fluency/2x/microsoft-power-apps-2020.png" alt="Power Apps" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/color/344/power-bi.png" alt="Power BI" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.iconscout.com/icon/free/png-64/azure-1868965-1583129.png" alt="Azure" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.iconscout.com/icon/free/png-64/microsoft-office-1868955-1583119.png" alt="Office 365" height="40" style="vertical-align:top; margin:4px">
  <img src="https://cdn.iconscout.com/icon/free/png-64/postman-3521648-2945092.png" alt="Postman" height="40" style="vertical-align:top; margin:4px">
