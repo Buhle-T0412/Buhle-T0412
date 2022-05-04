@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in low-code Development and Software Testing
-- 🌱 I’m currently learning how to build an Automation Framework
+- 🌱 I’m currently learning how to build a Test Automation Framework with Selenium
 - 💞️ I’m looking to collaborate on any low-code developement work or software testing position
 - 📫 How to reach me --> twetwabuhle@gmail.com 
 
